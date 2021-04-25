@@ -1,0 +1,7 @@
+pid,bname,author,edition,quantity,cprice,sprice
+101,C,Yeshwanth,3e,30,400,650
+102,C++,Stanley,5e,35,350,600
+103,Core Java,Bert Bates,1e,50,380,550
+104,Python,Zed Shaw,6e,45,700,900
+105,DBMS,Johannes Gehrke,2e,55,450,750
+106,OS,Peter Baer Galvin,8e,40,550,800
